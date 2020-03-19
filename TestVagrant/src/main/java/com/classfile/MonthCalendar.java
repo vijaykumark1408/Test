@@ -2,18 +2,18 @@ package com.classfile;
 
 import java.util.Calendar;
 
-public class MonthDaysExample {
+public class MonthCalendar {
 	public static Calendar calendar;
 	public static int maxDayinMonth;
 	public static int year, month;
 	public static int count = 0;
 	public static int dayOfWeek;
 
-	public MonthDaysExample(int year, int month) {
+	public MonthCalendar(int year, int month) {
 		// First get an instance of calendar object.
 
-		MonthDaysExample.month = month;
-		MonthDaysExample.year = year;
+		MonthCalendar.month = month;
+		MonthCalendar.year = year;
 		calendar = Calendar.getInstance();
 
 		calendar.set(year, month - 1, 1);

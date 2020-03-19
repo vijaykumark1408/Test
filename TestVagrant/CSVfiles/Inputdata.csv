@@ -1,16 +1,13 @@
-Categories,Books & Periodical category,Dairy
-TimesOfIndia,Hindu,ET,BM,HT
-
-
-
-
-
-
-
-
-NewsPapers Price According to the day 
-3,5,6
-2.5,4,4
-2,2,10
-1.5,1.5,1.5
-2,4,4
+test
+Categories:,Books & Periodical category,Dairy,
+milk,nandini,
+Books & Periodical category,NewsPapers,
+NewsPapers,TimesOfIndia,Hindu,ET,BM,HT,
+NewsPapers Price According to the day, 
+TimesOfIndia,3,3,3,3,3,5,6,
+Hindu,2.5,2.5,2.5,2.5,2.5,4,4,
+ET,2,2,2,2,2,2,10,
+BM,1.5,1.5,1.5,1.5,1.5,1.5,1.5,
+HT,2,2,2,2,2,4,4,
+date,2012,2,
+nandini,12,12,12,12,12,14,13,
